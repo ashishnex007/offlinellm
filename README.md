@@ -11,13 +11,6 @@
  - - - -
  <br>
 
-## Web Application using LLAMA2
- Markup :
- * we created a web application which uses the LLAMA Language Model with pipelined data model of medical chatbot
-- - - -
- ![picture alt](https://github.com/ashishnex007/offlinellm/blob/main/web-images/1.jpg)
- ![picture alt](https://github.com/ashishnex007/offlinellm/blob/main/web-images/2.jpg)
- - - - -
- ### Link - https://github.com/ashishnex007/llama2
+
 
  
